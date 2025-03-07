@@ -22,7 +22,10 @@ This project is a **React-based Calculator** integrated with **Electron**, allow
 - **JavaScript (ES6+)** - Core programming language.
 - **Tailwind CSS** - For responsive and modern styling.
 - **Vite**  - For fast development and bundling.
--**DaisyUI** - For Frontend Design 
+-**DaisyUI** - For Frontend Design
+
+## Usage
+Download calculator.exe from this repo and run it
 
 ## Contributing
 
