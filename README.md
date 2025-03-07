@@ -5,6 +5,7 @@
 ## 📌 Introduction
 This project is a **React-based Calculator** integrated with **Electron**, allowing it to run as a desktop application. It utilizes `react-router-dom` for navigation and supports keyboard input for calculations.
 
+![image](https://github.com/user-attachments/assets/567629f8-ee2b-44c1-822b-787250b54526)
 
 
 ## 🚀 Features
